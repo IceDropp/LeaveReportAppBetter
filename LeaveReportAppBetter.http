@@ -1,0 +1,6 @@
+@LeaveReportAppBetter_HostAddress = http://localhost:5234
+
+GET {{LeaveReportAppBetter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
